@@ -23,6 +23,7 @@
         <RunAnalyzersDuringBuild>false</RunAnalyzersDuringBuild>
         <RunAnalyzersDuringLiveAnalysis>false</RunAnalyzersDuringLiveAnalysis>
         <OutputType>Library</OutputType>
+        <PlatformTarget>x64</PlatformTarget>
     </PropertyGroup>
 
     <ItemDefinitionGroup>
