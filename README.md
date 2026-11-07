@@ -1,6 +1,8 @@
 # Clothing Expanded
 Clothing Expanded is a mod that lets players carry more accessories, but accessorising their clothes.
 
+⚠️ I revived this mod after Tonis retired.  I will only be keeping it functional in the way it always was.  I will not be fixing any of the known issues or making any changes to the functionality.  It is available "as is". ⚠️ 
+
 - Add a toolbelt to your pants for reduced tool carry weight
 - Add crampons to your boots to help with climbing
 - Attach a rifle scabbard to your Moose Hide Satchel and lessen the burden of carrying a rifle
@@ -8,6 +10,13 @@ Clothing Expanded is a mod that lets players carry more accessories, but accesso
 Currently, if you were to have all of these items on, you could theoretically have 5 different accessories in effect (Crampons, Toolbelt, Rifle Scabbard, Moose Satchel and whatever you wish the final one to be)
 
 <img src="https://github.com/moosemeat817/ModListJson/blob/main/Clothing_Expanded.png" width="80%">
+
+
+## Known Issues
+
+- Sure Footing buff is not visually shown on the screen when crampons are attached to footwear.
+- After crampons have been detached from footwear, they will reset to 100% condition.
+
 
 ## Special Thanks
 
