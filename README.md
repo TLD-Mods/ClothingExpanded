@@ -1,7 +1,7 @@
 # Clothing Expanded
 Clothing Expanded is a mod that lets players carry more accessories, but accessorising their clothes.
 
-⚠️ I revived this mod after Tonis retired.  I will only be keeping it functional in the way it always was.  I will not be fixing any of the known issues or making any changes to the functionality.  It is available "as is". ⚠️ 
+⚠️ This is a TLD Community Mod, which may or may not be maintained in the future. ⚠️ 
 
 - Add a toolbelt to your pants for reduced tool carry weight
 - Add crampons to your boots to help with climbing
